@@ -1,0 +1,11 @@
+streamlit
+requests
+pandas
+numpy
+fastapi
+uvicorn
+python-multipart
+openpyxl
+openai
+dotenv
+langgraph
